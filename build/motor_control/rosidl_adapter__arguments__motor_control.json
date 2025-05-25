@@ -1,0 +1,6 @@
+{
+  "package_name": "motor_control",
+  "non_idl_tuples": [
+    "/root/capstone_ws/src/motor_control:msg/ServoCtrlMsg.msg"
+  ]
+}

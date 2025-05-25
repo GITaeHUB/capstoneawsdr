@@ -1,0 +1,17 @@
+/root/capstone_ws/install/deepracer_main/lib/deepracer_main/deepracer_node
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/launch/deepracer_main.launch.py
+/root/capstone_ws/install/deepracer_main/share/ament_index/resource_index/package_run_dependencies/deepracer_main
+/root/capstone_ws/install/deepracer_main/share/ament_index/resource_index/parent_prefix_path/deepracer_main
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/environment/ament_prefix_path.sh
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/environment/ament_prefix_path.dsv
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/environment/path.sh
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/environment/path.dsv
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/local_setup.bash
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/local_setup.sh
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/local_setup.zsh
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/local_setup.dsv
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/package.dsv
+/root/capstone_ws/install/deepracer_main/share/ament_index/resource_index/packages/deepracer_main
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/cmake/deepracer_mainConfig.cmake
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/cmake/deepracer_mainConfig-version.cmake
+/root/capstone_ws/install/deepracer_main/share/deepracer_main/package.xml

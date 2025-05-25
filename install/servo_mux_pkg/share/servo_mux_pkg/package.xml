@@ -1,0 +1,20 @@
+<?xml version="2.0"?>
+<package format="2">
+  <name>servo_mux_pkg</name>
+  <version>0.0.1</version>
+  <description>Servo command multiplexer (C++) for Deepracer hybrid mission</description>
+
+  <maintainer email="you@todo.todo">YOU</maintainer>
+  <license>Apache License 2.0</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>rclcpp</depend>
+  <depend>std_msgs</depend>
+  <depend>motor_control</depend>
+  <depend>rplidar_ros</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>

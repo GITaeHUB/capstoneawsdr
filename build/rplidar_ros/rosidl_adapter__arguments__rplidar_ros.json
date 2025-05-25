@@ -1,0 +1,7 @@
+{
+  "package_name": "rplidar_ros",
+  "non_idl_tuples": [
+    "/root/capstone_ws/src/rplidar_ros2:msg/ObjectInfo.msg",
+    "/root/capstone_ws/src/rplidar_ros2:msg/ObjectInfoArray.msg"
+  ]
+}
